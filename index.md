@@ -9,7 +9,7 @@ Tools, software and other relevant programming information for the lab
 
 ### Segmentation and Particle Tracking
 
-* [Allen Cell Structure Segmenter](https://www.allencell.org/segmenter.html)
+* [Allen Cell Structure Segmenter](https://www.allencell.org/segmenter.html) -  Python-based open source toolkit for 3D segmentation of intracellular structures in fluorescence microscope images.
 * [Imagej](https://imagej.net/Downloads) - Analysis and 
 * [Mosaic Suite (Imagej plugin)](http://mosaic.mpi-cbg.de/?q=downloads/imageJ) - Particle tracking and ...
 
