@@ -2,7 +2,7 @@
 ## Skala Lab
 Tools, software and other relevant programming information for the lab
 
-https://github.com/skalalab/skala_lab
+* [https://github.com/skalalab/skala_lab](https://github.com/skalalab/skala_lab) - Code repository for the lab (private)
 
 ### Hardware Control
 * [MicroManager](https://micro-manager.org/wiki/Version_2.0) - open source microscope control
