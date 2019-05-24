@@ -2,7 +2,7 @@
 ## Skala Lab
 Tools, software and other relevant programming information for the lab
 
-
+https://github.com/skalalab/skala_lab
 
 ### Hardware Control
 * [MicroManager](https://micro-manager.org/wiki/Version_2.0) - open source microscope control
@@ -25,7 +25,7 @@ Tools, software and other relevant programming information for the lab
 * [R](https://www.r-project.org/)
 
 ### Libraries
-* [Bioformats](https://www.openmicroscopy.org/bio-formats/)
+* [Bioformats](https://www.openmicroscopy.org/bio-formats/) - software tool for reading and writing image data using standardized, open formats
 
 
 
