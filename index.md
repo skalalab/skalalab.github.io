@@ -28,5 +28,6 @@ Tools, software and other relevant programming information for the lab
 ### Libraries
 * [Bioformats](https://www.openmicroscopy.org/bio-formats/) - software tool for reading and writing image data using standardized, open formats
 
-
+### Other
+* [Theme Documentation](https://github.com/pages-themes/leap-day)
 
