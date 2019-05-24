@@ -2,4 +2,4 @@ theme: jekyll-theme-leap-day
 timezone: America/Chicago
 title: [Skala Lab Software Repository]
 description: [Collection of Software Tools and Package]
-show_downloads: [true]
+show_downloads: [false]
