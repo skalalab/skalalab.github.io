@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-p {
+p, body {
     color: #000;
+}
+
+nav ul a {
+	
+	color: #0566ad;
 }
