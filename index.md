@@ -25,7 +25,7 @@ Tools, software and other relevant programming information for the lab
 * [R](https://www.r-project.org/)
 
 ### Libraries
-* Bioformats
+* [Bioformats](https://www.openmicroscopy.org/bio-formats/)
 
 
 
