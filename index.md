@@ -1,7 +1,7 @@
 ### Lab Links
 
 * [Skala Lab Github Repository](https://github.com/skalalab/skala_lab) - Code repository for the lab (private)
-* [DoIT Software Library](https://it.wisc.edu/services/software/)
+* [DoIT Software Library](https://it.wisc.edu/services/software/) - Link to software provided by the university
 
 ### Hardware Control
 * [MicroManager](https://micro-manager.org/wiki/Version_2.0) - open source microscope control
