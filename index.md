@@ -1,6 +1,4 @@
-
-## Skala Lab
-Tools, software and other relevant programming information for the lab
+### Lab Links
 
 * [Skala Lab Github Repository](https://github.com/skalalab/skala_lab) - Code repository for the lab (private)
 * [DoIT Software Library](https://it.wisc.edu/services/software/)
