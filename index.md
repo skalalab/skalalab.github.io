@@ -13,6 +13,7 @@ Tools, software and other relevant programming information for the lab
 * [Allen Cell Structure Segmenter](https://www.allencell.org/segmenter.html) -  Python-based open source toolkit for 3D segmentation of intracellular structures in fluorescence microscope images.
 * [Imagej](https://imagej.net/Downloads) - Analysis and 
 * [Mosaic Suite (Imagej plugin)](http://mosaic.mpi-cbg.de/?q=downloads/imageJ) - Particle tracking and ...
+* [Icy](http://icy.bioimageanalysis.org/) - An open community platform for bioimage informatics 
 
 ### Machine Learning 
 * [MitoMo](https://omictools.com/mitomo-tool) - Automated image/video processing software for mitochondria 
