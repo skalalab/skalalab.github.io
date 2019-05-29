@@ -10,6 +10,7 @@
 
 * [Allen Cell Structure Segmenter](https://www.allencell.org/segmenter.html) -  Python-based open source toolkit for 3D segmentation of intracellular structures in fluorescence microscope images.
 * [Imagej](https://imagej.net/Downloads) - Java image processing program inspired by NIH Image
+* [ImageJ2](https://imagej.net/ImageJ2) - Update to ImageJ
 * [Mosaic Suite (Imagej plugin)](http://mosaic.mpi-cbg.de/?q=downloads/imageJ) - Several of the image-processing algorithms developed at the MOSAIC Group ( 2D/3D single-particle tracking)
 * [Icy](http://icy.bioimageanalysis.org/) - An open community platform for bioimage informatics
 * [CellProfiler](https://cellprofiler.org/) - Cell image analysis software
