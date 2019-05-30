@@ -13,16 +13,24 @@
 * [ImageJ2](https://imagej.net/ImageJ2) - Update to ImageJ
 * [Mosaic Suite (Imagej plugin)](http://mosaic.mpi-cbg.de/?q=downloads/imageJ) - Several of the image-processing algorithms developed at the MOSAIC Group ( 2D/3D single-particle tracking)
 * [Icy](http://icy.bioimageanalysis.org/) - An open community platform for bioimage informatics
+  * Kelsey
 * [CellProfiler](https://cellprofiler.org/) - Cell image analysis software
 
 ### Machine Learning 
-* [MitoMo](https://omictools.com/mitomo-tool) - Automated image/video processing software for mitochondria 
+* [MitoMo](https://omictools.com/mitomo-tool) - Automated image/video processing software for mitochondria
+  * Amani
+* [maskrcnn ](https://github.com/matterport/Mask_RCNN) - an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow
+  * Christine
+* [CSBDeep](https://github.com/CSBDeep/CSBDeep) - a toolbox for content-aware restoration of fluorescence microscopy images (CARE), based on deep learning via Keras and TensorFlow.
+  * Christine
 
 ### Programming
 * Python
   * [Anaconda Distribution](https://www.anaconda.com/distribution/) - open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning
   * [Spyder IDE (Also comes with Anaconda)](https://github.com/spyder-ide/spyder)
+    * Emmanuel
   * [PyCharm IDE](https://www.jetbrains.com/pycharm/)
+    * Emmanuel
 * [MATLAB](https://it.wisc.edu/services/software/)
 * [R](https://www.r-project.org/)
 
