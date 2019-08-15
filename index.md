@@ -43,6 +43,7 @@
 * [Oufti](http://www.oufti.org/) - software package designed for analysis of microscopy data
 * [Morpheus](http://morphlab.sc.fsu.edu/software/index.html) - software package for morphometric analysis
 * [ilastik](https://www.ilastik.org/) - tool for interactive image classification, segmentation and analysis
+  * [Pixel Classification Tutorial](https://www.youtube.com/watch?v=5N0XYW9gRZY)
 * [OMERO](https://www.openmicroscopy.org/omero/) - secure central repository for storing images
 
 ### Other
