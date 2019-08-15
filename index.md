@@ -44,6 +44,7 @@
 * [Morpheus](http://morphlab.sc.fsu.edu/software/index.html) - software package for morphometric analysis
 * [ilastik](https://www.ilastik.org/) - tool for interactive image classification, segmentation and analysis
   * [Pixel Classification Tutorial](https://www.youtube.com/watch?v=5N0XYW9gRZY)
+  * [Playlist of Tutorials ](https://www.youtube.com/watch?v=N-QhiTWVDmk&list=PLeM_d8ZXiMCNXtVFvwAW23yXfTDsGFk5t)
 * [OMERO](https://www.openmicroscopy.org/omero/) - secure central repository for storing images
 
 ### Other
